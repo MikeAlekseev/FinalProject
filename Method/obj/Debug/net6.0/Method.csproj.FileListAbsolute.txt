@@ -1,0 +1,15 @@
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.csproj.AssemblyReference.cache
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.AssemblyInfoInputs.cache
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.AssemblyInfo.cs
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.csproj.CoreCompileInputs.cache
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/bin/Debug/net6.0/Method
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/bin/Debug/net6.0/Method.deps.json
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/bin/Debug/net6.0/Method.runtimeconfig.json
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/bin/Debug/net6.0/Method.dll
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/bin/Debug/net6.0/Method.pdb
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.dll
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/refint/Method.dll
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.pdb
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/Method.genruntimeconfig.cache
+/Users/trany/Library/Mobile Documents/com~apple~CloudDocs/Разработчик/FinalProject/Method/obj/Debug/net6.0/ref/Method.dll
