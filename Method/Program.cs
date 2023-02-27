@@ -1,6 +1,6 @@
 ﻿//блаблабла
 
-string[] arr1 = new string[5] {"123", "23", "hello", "world", "res"};
+string[] arr1 = new string[5] {"54", "229", "hello", "world", "rus"};
 string[] arr2 = new string[arr1.Length];
 void SecondArray(string[] massive1, string[] massive2)
 {
